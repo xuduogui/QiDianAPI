@@ -1,0 +1,22 @@
+{
+  "name": "spiderbook",
+  "version": "1.0.0",
+  "description": "爬起点中文",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index/index",
+    "test": "make test"
+  },
+  "author": "xuduogui",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "html-entities": "^1.2.1",
+    "http": "0.0.0",
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0",
+    "koa-views": "^6.1.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

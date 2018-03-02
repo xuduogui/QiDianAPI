@@ -1,0 +1,27 @@
+1009521148
+1010829475
+根据id获取了头像
+https://qidian.qpic.cn/qdbimg/349573/1009521148/180
+https://qidian.qpic.cn/qdbimg/349573/1010829475/180
+https://qidian.qpic.cn/qdbimg/349573/1010539872/180
+根据id获取了大头像（书）
+https://qidian.qpic.cn/qdbimg/349573/1009521148/300
+
+
+一个json数据， 书友评价，打星星
+https://book.qidian.com/ajax/comment/index?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&bookId=1009521148&pageSize=15
+https://book.qidian.com/ajax/comment/info?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&pageIndex=3&pageSize=15&orderBy=2&bookId=1009521148
+
+json，粉丝排行前几名
+https://book.qidian.com/ajax/book/GetFansRank?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&bookId=1009521148
+
+json，本书名人榜
+https://book.qidian.com/ajax/book/getFansHall?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&bookId=1009521148
+
+
+json，最近的三条评论，针对章节
+https://read.qidian.com/ajax/chapter/getChapterReviews?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&chapterId=370659573&bookId=1009521148
+https://read.qidian.com/ajax/chapter/getChapterReviews?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&chapterId=370665626&bookId=1009521148
+
+json，疑似章节更新时间，不是更新时间，是最近的打赏信息
+https://read.qidian.com/ajax/chapter/getChapterReward?_csrfToken=t8bt79GaW5c3BJbsQ5mqEG3BjpgusdcJw93fYdfh&chapterId=370659573

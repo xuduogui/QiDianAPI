@@ -1,0 +1,236 @@
+
+全部作品：
+/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=2
+
+/all?chanId=21&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+
+/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=1
+
+状态----action  0连载 / 1完本
+/all?chanId=6&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0           全部
+/all?chanId=6&action=0&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  连载
+/all?chanId=6&action=1&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  完本
+
+属性----vip     0免费 / 1VIP 
+/all?chanId=6&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0                  全部
+/all?chanId=6&action=1&orderId=&page=1&vip=0&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   免费
+/all?chanId=6&orderId=&page=1&vip=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0            VIP
+
+字数----size    1--5 
+/all?chanId=6&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0         全部
+/all?chanId=6&size=1&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  30字下
+/all?chanId=6&size=2&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  30到50
+/all?chanId=6&size=3&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  50到100
+/all?chanId=6&size=4&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  100到200
+/all?chanId=6&size=5&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  200以上
+
+品质----sign    1签约 / 2精品（未签约）
+/all?chanId=6&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0          全部
+/all?chanId=6&orderId=&page=1&sign=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   签约作品
+/all?chanId=6&orderId=&page=1&sign=2&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   精品小说
+
+更新时间----update    1--4
+/all?chanId=6&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0            全部
+/all?chanId=6&orderId=&page=1&update=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   三日内
+/all?chanId=6&orderId=&page=1&update=2&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   七日内
+/all?chanId=6&orderId=&page=1&update=3&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   半月内
+/all?chanId=6&orderId=&page=1&update=4&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   一月内
+
+标签----tag    中文
+/all?tag=豪门&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+全部
+豪门，孤儿，盗贼，特工，黑客，明星
+，特种兵，杀手，老师，学生，胖子，宠物，蜀山，魔王附体，LOL，废材流，护短，卡片，手游，法师，医生，感情，鉴宝
+，亡灵，职场，吸血鬼，龙，西游，鬼怪，阵法，魔兽，勇猛，玄学，群穿，丹药，练功流，召唤流，恶搞，爆笑，轻松
+，冷酷，腹黑，阳光，狡猾，机智，猥琐，嚣张，淡定，僵尸，丧尸，盗墓，随身流，软饭流，无敌文，异兽流，系统流
+，洪荒流，学院流，位面，铁血，励志，坚毅，变身，强者回归，赚钱，争霸流，种田文
+，宅男，无限流，技术流，凡人流，热血，重生，穿越
+
+
+
+分类
+
+玄幻----   subCateId  8 73 58 78              chanId  21
+/all?chanId=21&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0               玄幻全部
+/all?chanId=21&subCateId=8&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   东方玄幻
+/all?chanId=21&subCateId=73&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  异世大陆
+/all?chanId=21&subCateId=58&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  王朝争霸
+/all?chanId=21&subCateId=78&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  高武世界
+
+奇幻----    subCateId 38 62 201 202 20092 20093     chanId  1
+/all?chanId=1&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0                奇幻全部
+/all?chanId=1&subCateId=38&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   现代魔法
+/all?chanId=1&subCateId=62&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   剑与魔法
+/all?chanId=1&subCateId=201&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  史诗奇幻
+/all?chanId=1&subCateId=202&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  黑暗幻想
+/all?chanId=1&subCateId=20092&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 历史神话
+/all?chanId=1&subCateId=20093&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 另类幻想
+
+武侠----      5 30 206 20099 20100                chanId  2
+/all?chanId=2&subCateId=20093&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 武侠全部
+/all?chanId=2&subCateId=5&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0    传统武侠
+/all?chanId=2&subCateId=30&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   武侠幻想
+/all?chanId=2&subCateId=206&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  国术无双
+/all?chanId=2&subCateId=20099&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 古武未来
+/all?chanId=2&subCateId=20100&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 武侠同人
+
+仙侠----      20100 18 44 64 207 20101               chanId  22
+/all?chanId=22&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0                 仙侠全部
+/all?chanId=22&subCateId=20100&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  仙侠全部
+/all?chanId=22&subCateId=18&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0    修真文明
+subCateId   44  幻想修仙
+            64  现代修真
+            207 神话修真
+            20101 古典仙侠
+
+都市----      12 16 74 130 151 152 153            chanId  4
+/all?chanId=4&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  都市全部
+/all?chanId=4&subCateId=12&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  都市生活
+subCateId   16  恩怨情仇
+            74  异术超能
+            130 青春校园
+            151 娱乐明星
+            152 官场沉浮
+            153 商战职场
+
+现实----      20104 20105 20106 20107 20108 6 209     chanId  15
+/all?chanId=15&subCateId=153&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  现实全部
+/all?chanId=15&subCateId=20104&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 社会乡土
+subCateId   20105  生活时尚
+            20106  文学艺术
+            20107  成功励志
+            20108  青春文学
+            6      爱情婚姻
+            209    现实百态
+
+军事----      54 65 80 230 231                        chanId  6
+/all?chanId=6&subCateId=209&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  军事全部
+/all?chanId=6&subCateId=54&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   军旅生涯
+subCateId   65  军事战争
+            80  战争幻想
+            230 抗战烽火
+            231 谍战特工
+
+历史----      22 48 220 32 222 223 225 226 20094      chanId  5
+/all?chanId=5&subCateId=231&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  历史全部
+/all?chanId=5&subCateId=22&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   架空历史
+subCateId   48  秦汉三国
+            220 上古先秦
+            32  历史传记
+            222 两晋隋唐
+            223 五代十国
+            224 两宋文明
+            225 清史民国
+            226 外国历史
+            20094 民间传说
+
+游戏----      7 70 240 20102 20103                    chanId   7
+/all?chanId=7&subCateId=20094&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  游戏全部
+/all?chanId=7&subCateId=7&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0    电子竞技
+subCateId   70  虚拟网游
+            240 游戏异界
+            20102 游戏系统
+            20103 游戏主播
+
+体育----          28 55 82                                chanId   8
+/all?chanId=8&subCateId=20103&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 体育全部
+/all?chanId=8&subCateId=28&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   篮球运动
+subCateId   55  体育赛事
+            82  足球运动
+
+科幻----         
+/all?chanId=9&subCateId=82&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   科幻全部
+/all?chanId=9&subCateId=21&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   古武机甲
+subCateId   25  未来世界
+            68  星球文明
+            250 超级科技
+            251 时空穿梭
+            252 进化变异
+            253 末世危机
+
+灵异
+/all?chanId=10&subCateId=253&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 灵异全部
+/all?chanId=10&subCateId=26&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0  恐怖惊悚
+subCateId   35  异灵鬼怪
+            57  悬疑侦探
+            260 寻墓探险
+            20095 风水秘术
+
+二次元
+/all?chanId=12&subCateId=20095&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 二次元全部
+/all?chanId=12&subCateId=10&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0   变身入替
+subCateId   60  原生幻想
+            66  青春日常
+            281 衍生同人
+            282 高效吐槽
+
+短篇
+/all?chanId=20076&subCateId=282&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 短篇全部
+/all?chanId=20076&subCateId=20097&orderId=&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0 诗歌散文
+subCateId   20098   人物传记
+            20075   影视剧本
+            20077   评论文集
+            20078   生活随笔
+            20079   美文游记
+            20081   儿童文学
+            20096   短篇小说
+
+
+
+排序
+
+    人气排序
+    /all?page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+    更新时间
+    /all?orderId=5&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+    总收藏
+    /all?orderId=11&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+    总字数
+    /all?orderId=3&page=1&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0
+
+                    orderId   1 7 8 9 10 12
+    会员周点击
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=1&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+    会员月点击
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=7&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+    会员总点击
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=8&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+    周推荐票
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=9&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+    月推荐票
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=10&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+    总推荐票
+    /all?size=-1&sign=-1&tag=-1&chanId=-1&subCateId=-1&orderId=2&update=-1&page=1&month=-1&style=1&action=-1&vip=-1
+
+
+
+
+&style=1  ---  1:  一行两部书， 带图片的
+          ---  2： 一行一部书， 不带图片
+
+&page=1   ---  1:  页码
+
+chanId=21   这项最好放在第一位
+           ---  21： 全部玄幻
+           ---  1： 奇幻
+           ---  2： 武侠
+           ---  22：仙侠
+
+chanId=21 玄幻
+    &subCateId=58  --- 58 王朝争霸
+               --- 73 异世大陆
+               --- 8  东方玄幻
+               --- 78 高武世界
+chanId=1  奇幻
+    &subCateId=201  --- 201 史诗奇幻
+                    --- 38  现代魔法
+                    --- 62  剑与魔法
+                    --- 202 黑暗幻想
+                    --- 20092 历史神话
+                    --- 20093 另类幻想
+
+&pageSize=20  
+
+
+
+
