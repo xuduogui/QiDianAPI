@@ -15,8 +15,8 @@ api使用方式：
     orderId：排序； 
     page： 页码； 
     vip： vip状态； 
-    update： 更新状态;
-    pagesize：小说数量； 
+    pagesize：小说数量； 
+    update： 更新状态;
     
 
     搜索： 天下
