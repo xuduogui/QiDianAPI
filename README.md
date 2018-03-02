@@ -4,7 +4,7 @@
 api使用方式：
 
     获取所有小说
-    /all
+        /all
     
     获取对应小说
     /all/chanId=6&subCateId=65&tag=孤儿&size=2&action=0&orderId=&page=1&vip=1&sign=1&update=2&style=2&pageSize=50&siteid=1&pubflag=0&hiddenField=0
